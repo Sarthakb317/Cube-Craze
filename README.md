@@ -10,7 +10,6 @@
 
 - Simple and intuitive design
 - Smooth animations
-- Endless gameplay
 - Mobile-friendly
 
 ##  Technologies Used
